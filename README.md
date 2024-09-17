@@ -1,1 +1,1 @@
-# GirlsCodeToo-WebDesign-Template-
+# GirlsCodeToo-WebDesign-Template
