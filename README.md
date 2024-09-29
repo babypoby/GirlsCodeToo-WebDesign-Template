@@ -11,7 +11,7 @@ This is a simple template to help you get started with web design and host your 
 1. **Fork this repository** to your own GitHub account.
 2. **Clone** the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/my-website-template.git
+   git clone https://github.com/girlscodetoo-ch/GirlsCodeToo-WebDesign-Template.git
    ````
 
 3. Open the index.html file in your browser to see your website.
@@ -29,6 +29,6 @@ This is a simple template to help you get started with web design and host your 
 - Scroll down to the GitHub Pages section.
 - Select the branch you want to use (e.g., main or master) and save.
 
-Your website will be live at: https://yourusername.github.io/my-website-template/.
+Your website will be live at: https://girlscodetoo-ch.github.io/GirlsCodeToo-WebDesign-YourName/.
 
 Enjoy creating your website!
